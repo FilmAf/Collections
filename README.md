@@ -3,15 +3,13 @@
 As we do not have a live database and since there are 15 million collection
 entries, we had to split the collections in two pieces.  The zipped files
 contain who has what. The name of the file is the first collection in that
-archive.
-
-For example the first collection file is named "collections-0001-0-jd-0",
+archive. For example the first collection file is named "collections-0001-0-jd-0",
 the second is "collections-0002-45degreeangel".  So if you are looking for
 "44loveletter" that will be on the first file because the second begins
 with "45degreeangel".
 
 The all-titles.txt file contains the title information. You will need to
-merge both files. The easiest way to do that is with excel and doing a
+merge both files. The easiest way to do that is with Excel and doing a
 VLOOKUP formula.  We will do a video showing how.  Both files are sorted
 by dvd_id to make it easier to merge them if you are doing it in some
 other way.
