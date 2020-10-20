@@ -14,8 +14,8 @@ VLOOKUP formula.  We will do a video showing how.  Both files are sorted
 by dvd_id to make it easier to merge them if you are doing it in some
 other way.
 
-It is possible that someone will step forward and get this data in a
-easier for people to get at it.
+It is always possible that someone will step forward and get this data in a
+easier format to people.
 
 
 Fields in all-titles.txt
